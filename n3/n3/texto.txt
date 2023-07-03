@@ -1,0 +1,5 @@
+Uma vantagem sobre a classe String é a concatenação de strings.
+Pois quando concatena strings com StringBuilder é invocado o método append.
+Esse método aloca novas strings concatenadas para o mesmo objeto, ou seja,
+cada vez que concatena strings não são criadas cópias dos objetos como é
+realizado pelo método concat da classe String, contribuindo para um melhor desempenho do sistema.
