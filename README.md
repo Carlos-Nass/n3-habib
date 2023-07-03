@@ -3,16 +3,13 @@ Aluno: Carlos Nass
 Planejamento e operação -
 
 O codigo foi feito em Java, pois é uma linguagem que tem bastante contéudo na internet e suporte via Stackoverflow e etc.
-O código está mais ou menos funcionando, fiquei esse ultimo final de semana em cima dele para tentar entender o que estava acontece, porém sem sucesso,
-os arquivos são criados mas a mensagem que foi mandada não é decriptograda corretamente.
+O código está funcionando corretamento após a ajuda do professor na ultima segunda-feira (26/06/2023), está criptografando e descriptografando corretamente, se baseando no codigo e chaves do professor.
 
 Teste - 
 
-Foi testado com varias Keys tanto publica quanto privada mas sem sucesso, basicamente ele cria um arquivo mas não escreve nele, tanto que tem um System.out.printIn para mostrar o que na teoria deveria ser escrito no arquivo.
-Sou pessimo em programação, então deve ser algum erro bobo, agradeceria se o professor pudesse me dar uma luz, caso encontre o meu erro.
+Foi testado varias vezes com outras chaves e tudo está funcionando corretamente, foi testado na aula do dia 26 também e lá funcionou corretamente
 
 Avalie o projeto - 
 
-Gostei de tentar fazer, apesar de não ter dado certo :(
-Sempre gostei dessa parte de criptografia e tenho interesse em aprender mais um dia.
+Gostei de fazer, apesar de não ter muita experiencia em programação, foi preciso ajuda de terceiros mas no final está tudo funcionando e até que entendi o que ele faz graças a explicação do professor.
 O projeto em si foi criativo é algo mais pratico comparado aos outros trabalhos/projetos.
